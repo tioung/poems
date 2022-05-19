@@ -8,5 +8,7 @@ Blue
 Indigo
 Violet
 
+NEW Color
+
 
 === finished ===
